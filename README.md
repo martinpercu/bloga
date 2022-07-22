@@ -1,2 +1,2 @@
 # bloga
-Primer blog para training de github
+First blog - just for training with github
